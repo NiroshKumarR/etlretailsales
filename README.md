@@ -9,7 +9,8 @@ The dataset used in this project is the [Superstore Sales dataset](https://www.k
 ## Project Structure
 
 - `ETL_Retail.ipynb`: Jupyter Notebook containing the Python code for performing ETL operations on the dataset.
-- `superstore_data.csv`: The raw data file in CSV format.
+- `data/superstore_dataset2011-2015.csv`: The raw data file in CSV format.
+- `queries.py`: Python file containing the SQL queries used for analysis.
 
 ## Requirements
 
